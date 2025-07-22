@@ -1,0 +1,5 @@
+Ján;Novák;38;+421911333454
+Samuel;Novák;50;+42190444010
+David;Novák;60;+421944123236
+Roman;Novák;28;+421911563023
+Alexander;Pribinák;35;+421903564456
